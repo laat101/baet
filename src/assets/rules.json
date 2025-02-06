@@ -1,0 +1,17 @@
+{
+  "algemeen": [
+    "Elke speler beurt om beurt een kaart.",
+    "Als je de actie wel eens gedaan hebt, drink je.",
+    "Wees eerlijk in je antwoorden."
+  ],
+  "spelverloop": [
+    "De jongste speler begint.",
+    "Speel klokgewijs verder.",
+    "Je mag een beurt overslaan door 2 slokken te drinken."
+  ],
+  "speciale_regels": [
+    "Als iedereen heeft gedronken, moet de voorlezer dubbel drinken.",
+    "Bij twijfel over een antwoord beslist de groep.",
+    "Je mag doorvragen als je meer details wilt weten."
+  ]
+} 
