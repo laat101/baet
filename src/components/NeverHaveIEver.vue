@@ -34,13 +34,13 @@
           class="btn true"
           @click="handleAnswer(true)"
         >
-          Wel gedaan
+          Zeker wel
         </button>
         <button
           class="btn false"
           @click="handleAnswer(false)"
         >
-          Niet gedaan
+          Inderdaad nooit
         </button>
       </div>
     </div>
