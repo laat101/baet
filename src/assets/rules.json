@@ -1,17 +1,15 @@
 {
   "algemeen": [
-    "Elke speler beurt om beurt een kaart.",
-    "Als je de actie wel eens gedaan hebt, drink je.",
-    "Wees eerlijk in je antwoorden."
+    "Ieder uur komt een nieuwe stelling, ook in nachtelijke uren.",
+    "Op iedere hele uur verschijnt een nieuwe stelling.",
+    "Als iemand roept 'Nooit heb ik ooit...' moet iedereen de app erbij pakken en reageren op de stelling.",
+    "Houdt je telefoon in de lucht zodat iedereen kan zien wat je antwoord is.",
+    "Zijn we niet fysiek bij elkaar post dan een goen vinkje of rood kruisje in whatsapp.",
+    "Als je de meerderheid van de groep je vindt dat je anders antwoord had niet goed was moet je een shotje drinken.",
+    "In het vliegtuig werkt deze app ook."
   ],
-  "spelverloop": [
-    "De jongste speler begint.",
-    "Speel klokgewijs verder.",
-    "Je mag een beurt overslaan door 2 slokken te drinken."
-  ],
-  "speciale_regels": [
-    "Als iedereen heeft gedronken, moet de voorlezer dubbel drinken.",
-    "Bij twijfel over een antwoord beslist de groep.",
-    "Je mag doorvragen als je meer details wilt weten."
+  "Stellingen toelichten": [
+    "D'n Baet moet iedere stelling nader verklaren.",
+    "D'n Baet wijst bij iedere stelling iemand aan die een toelichting MOET geven."
   ]
 } 
