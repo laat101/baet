@@ -81,7 +81,7 @@ export default {
       return this.timeLeft.display
     },
     hasCurrentStatement() {
-      return this.currentStatement && this.currentStatement.id !== undefined
+      return this.currentStatement && this.currentStatement.date !== undefined
     }
   },
   created() {
@@ -288,9 +288,6 @@ body.theme-false {
 }
 
 .info-icon {
-  position: absolute;
-  top: 20px;
-  right: 20px;
   cursor: pointer;
   width: 24px;
   height: 24px;
@@ -299,6 +296,7 @@ body.theme-false {
   justify-content: center;
   color: #666;
   transition: color 0.3s ease;
+  margin: 15px auto;
 }
 
 .info-icon:hover {
@@ -323,7 +321,7 @@ body.theme-false {
 }
 
 .info-icon i {
-  font-size: 20px;
+  font-size: 40px;
 }
 
 /* Verwijder de oude extra-info stijlen en voeg nieuwe popup stijlen toe */
