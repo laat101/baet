@@ -11,7 +11,7 @@
         <br>
         <span class="countdown">Volgende stelling over: {{ timeUntilNext }}</span>
       </p>
-      <h1>Nooit heb ik ooit...</h1>
+      <h1>Voor ik ga meuren, ga dees nog gebeuren..</h1>
       <h2>{{ currentStatement.text }}</h2>
       <div class="info-icon" @click="toggleExtraInfo" v-if="currentStatement.extraInfo">
         <i class="fa-solid fa-circle-info"></i>
@@ -34,13 +34,13 @@
           class="btn true"
           @click="handleAnswer(true)"
         >
-          Zeker wel
+          Zekers
         </button>
         <button
           class="btn false"
           @click="handleAnswer(false)"
         >
-          Inderdaad nooit
+          Denk van niet
         </button>
       </div>
     </div>
@@ -189,6 +189,11 @@ body.theme-true {
 /* Theme False (Red) */
 body.theme-false {
   background-color: #b71c1c;
+}
+
+h1 {
+  color: #666;
+  font-size: 40px;
 }
 
 .never-have-i-ever {
